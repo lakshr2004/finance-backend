@@ -39,10 +39,10 @@ http://localhost:5000
 
 POST /api/auth/login
 
+```json
 {
-"email": "user@test.com
-",
-"password": "123456"
+  "email": "user@test.com",
+  "password": "123456"
 }
 
 
